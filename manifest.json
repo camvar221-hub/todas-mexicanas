@@ -1,4 +1,8 @@
 {
+  "name": "Todas Mexicanas - Archive.org",
+  "version": "1.0.0",
+  "description": "Todas las peliculas mexicanas de archive.org ordenadas A-Z",
+  "author": "Camilo",
   "scrapers": [
     {
       "id": "todas-mexicanas-archive",
