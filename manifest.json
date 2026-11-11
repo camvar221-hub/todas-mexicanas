@@ -3,7 +3,16 @@
   "version": "1.0.0",
   "description": "Todas las peliculas mexicanas de archive.org ordenadas A-Z",
   "author": "Camilo",
-  "plugins": [
+  "scrapers": [
+    {
+      "name": "Todas Mexicanas - Archive.org",
+      "version": "1.0.0",
+      "author": "Camilo",
+      "description": "Todas las peliculas mexicanas de archive.org ordenadas A-Z",
+      "url": "https://raw.githubusercontent.com/camvar221-hub/todas-mexicanas/refs/heads/main/todas-mexicanas-archive.js"
+    }
+  ],
+  "providers": [
     {
       "name": "Todas Mexicanas - Archive.org",
       "version": "1.0.0",
